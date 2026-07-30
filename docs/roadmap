@@ -1,0 +1,115 @@
+# Roadmap
+
+## 🚀 Version 1.0 — Minimum Viable Product (MVP)
+
+The goal of this version is to build a working platform with the core functionality.
+
+### Authentication
+
+* Email & Password Authentication
+* Google Sign-In
+
+### Developer Mode
+
+* Connect GitHub Account
+* GitHub Profile Analysis
+* Repository Analysis
+* Resume Upload
+* AI Profile Summary
+* Skill Gap Analysis
+* Basic Dashboard
+
+### Recruiter Mode
+
+* Candidate GitHub Analysis
+* Resume Analysis
+* AI Candidate Summary
+* Basic Candidate Report
+
+### Shared Features
+
+* User Profiles
+* Analysis History
+* PDF Report Export
+
+---
+
+# 🚀 Version 2.0
+
+Focus on improving user experience and adding more intelligent features.
+
+### Developer Mode
+
+* Portfolio Website Analysis
+* Personalized Learning Roadmap
+* Project Recommendations
+* Progress Tracking
+* GitHub Activity Analytics
+
+### Recruiter Mode
+
+* Candidate Comparison
+* Job Description Analysis
+* Skill Match Score
+* Recruiter Dashboard
+* Saved Candidates
+
+### Shared Features
+
+* Notifications
+* Advanced Search
+* Settings
+* Dark Mode
+
+---
+
+# 🚀 Version 3.0
+
+Transform the platform into a complete AI-powered developer intelligence system.
+
+### AI Features
+
+* AI Mock Technical Interviews
+* AI-generated Interview Questions
+* AI Career Coach
+* AI Project Generator
+
+### Recruiter Features
+
+* Team Management
+* Recruiter Notes
+* Candidate Bookmarking
+* Hiring Analytics
+
+### Developer Features
+
+* Public Developer Profile
+* Portfolio Sharing
+* Career Progress Timeline
+* Monthly AI Reports
+
+---
+
+# 🌟 Future Vision
+
+* Company Dashboard
+* Team Analytics
+* API for Third-Party Integrations
+* Mobile Application
+* Browser Extension
+* Community Features
+* AI Code Review
+* Real-time GitHub Monitoring
+
+---
+
+## Current Status
+
+**Current Phase:** Planning & Product Design
+
+### Current Goals
+
+* Finalize documentation
+* Design the system architecture
+* Design the database
+* Build Version 1.0
